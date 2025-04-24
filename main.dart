@@ -1,5 +1,5 @@
 void main() {
-  getPrimeNumBetween(20, 7);
+  getPrimeNumBetween(7, 20);
 }
 getPrimeNumBetween(int n, int m){
   for ( int i=n;i<=m;i++){
